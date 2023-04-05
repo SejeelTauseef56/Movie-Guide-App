@@ -29,3 +29,5 @@ index.html: The main HTML file that contains the search bar and result div.
 style.css: The CSS file that defines the app's styling.
 
 script.js: The JavaScript file that contains the code to retrieve data from the OMDb API and display it in the result div.</p>
+
+![Alt Text](./Screenshot 2023-04-06 at 00.20.33.png)
