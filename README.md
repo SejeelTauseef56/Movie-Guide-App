@@ -7,5 +7,7 @@
 
 <p>To get started with the app, simply clone this repository and open the index.html file in your browser.</p>
 
+```
 git clone https://github.com/your-username/movie-guide-app.git
 cd movie-guide-app
+```
