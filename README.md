@@ -30,4 +30,6 @@ style.css: The CSS file that defines the app's styling.
 
 script.js: The JavaScript file that contains the code to retrieve data from the OMDb API and display it in the result div.</p>
 
+
+<h3>Preview</h3>
 ![Alt Text](./screenshot.png)
